@@ -210,7 +210,7 @@ module.exports = async function App(context) {
             },
             {
               type: 'uri',
-              label: '上Line Spot看心得！',
+              label: '上LINE Spot看心得！',
               uri: 'https://liff.line.me/1656666015-WGqkN4Z9',
             },
           ],
@@ -227,7 +227,7 @@ module.exports = async function App(context) {
             },
             {
               type: 'uri',
-              label: '上Line Spot看心得！',
+              label: '上LINE Spot看心得！',
               uri: 'https://liff.line.me/1656666015-WGqkN4Z9',
             },
           ],
@@ -245,7 +245,7 @@ module.exports = async function App(context) {
           actions: [
             {
               type: 'uri',
-              label: '上 Line Spot 分享！',
+              label: '上LINE Spot 分享！',
               uri: 'https://liff.line.me/1656666015-WGqkN4Z9',
             }
           ],
